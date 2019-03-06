@@ -10,4 +10,4 @@ J1, J2		2	Conn_Coaxial	Connector:Conn_Coaxial	~	coaxial connector SMA
 R1		1	15k	Device:R Size:0402		~	Resistor	
 R2		1	10k	Device:R Size:0402		~	Resistor	
 R3		1	200k	Device:R			~	DO NOT INSERT	
-U1		1	SKY66295	baum_rfParts:SKY66295		
+U1		1	SKY66295-11	
