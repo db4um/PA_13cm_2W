@@ -1,5 +1,6 @@
 # PA 13cm 2W
-Small 2W PA for the 13cm hamband. Great as a preamp for Eshail2. 
+Small 2W CW PA for the 13cm hamband. Great as a preamp for Eshail2.<br>
+When this PA is used for SSB, a maximum output power of 1W is recommended to ensure linearity.
 Size: 25mm x 25mm
 ![3D rendering of the PCB](https://raw.githubusercontent.com/db4um/PA_13cm_2W/master/3D_render.png)
 
